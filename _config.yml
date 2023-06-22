@@ -1,28 +1,32 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "BootSTOP"
+author: "Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
+description: "BootSTOP, BootSTOP-more-algorithms, and BootPLUG conformal bootstopping tools.\nQueen Mary University of London, University of Crete"
 permalink: /:title/
-lang: "en"
+lang: "en-gb"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d %b, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_excerpts: true # show article excerpts on the home page
+show_frame: true    # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: true       # use a dark header
+mathjax: true       # Use mathjax where appropriate
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.md", title: "Home"}
+  - {file: "blog.html", title: "Blog"}
+  - {url: "https://github.com/vniarchos/bootstop", title: "BootSTOP"}
+  - {url: "https://github.com/Paul-Richmond/BootSTOP-more-algorithms", title: "BootSTOP-more-algorithms"}
+  - {url: "https://github.com/xand-stapleton/BootPLUG", title: "BootPLUG"}
+  - {file: "blocks.md", title: "Conformal Blocks"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:a.g.stapleton@qmul.ac.uk"}
+  - {title: Github, icon: github, url: "https://github.com/vniarchos/bootstop"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
