@@ -17,11 +17,10 @@ mathjax: true       # Use mathjax where appropriate
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "blog.html", title: "Blog"}
-  - {url: "https://github.com/vniarchos/bootstop", title: "BootSTOP"}
-  - {url: "https://github.com/Paul-Richmond/BootSTOP-more-algorithms", title: "BootSTOP-more-algorithms"}
-  - {url: "https://github.com/xand-stapleton/BootPLUG", title: "BootPLUG"}
+  # - {file: "index.md", title: "Home"}
+  - {file: "index.md", title: "Blog"}
+  - {file: "bootstop.md", title: "BootSTOP"}
+  # - {url: "https://github.com/xand-stapleton/BootPLUG", title: "BootPLUG"}
   - {file: "blocks.md", title: "Conformal Blocks"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
