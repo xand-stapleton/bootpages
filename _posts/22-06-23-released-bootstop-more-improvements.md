@@ -32,4 +32,4 @@ __Constrained Interior Point Optimiser (IPOPT)__
 Phys. Rev. D 105, L021902 (2022), arXiv:2107.08510 [arXiv:2107.08510](https://arxiv.org/abs/2107.08510)
 - [3] A. Cavaglià, N. Gromov, J. Julius & M. Preti
 *Bootstrability in defect CFT: integrated correlators and sharper bounds*,
-JHEP 2205, 164 (2022, L021902 (2022), [arXiv:2203.03203](https://arxiv.org/abs/2203.03203)
+JHEP 2205, 164 (2022, L021902 (2022), [arXiv:2203.09556](https://arxiv.org/abs/2203.09556)
