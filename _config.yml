@@ -1,7 +1,7 @@
 title: "BootSTOP"
 author: "Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
 description: "BootSTOP conformal bootstopping programme.\nQueen Mary University of London; University of Crete"
-url: https://github.com/xand-stapleton/bootpages
+url: "https://github.com/xand-stapleton/bootpages/tree/master/"
 permalink: /:title/
 lang: "en-gb"
 excerpt_separator: "\n\n\n"

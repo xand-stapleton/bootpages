@@ -18,12 +18,12 @@ __Unconstrained Soft-Actor-Critic and IPOPT__
 
 <!-- Potentially update with bands if we get Gromov's data -->
 
-![Unconstrained search](/assets/images/blog/22-06-23/wocons.png "Unconstrained search")
+![Unconstrained search]({{ site.url }}/assets/images/blog/22-06-23/wocons.png "Unconstrained search")
 *Results for the OPE-coefficients squared of the first three long operators with no integral constraints. The solid lines indicate the rigorous bounds presented in Figure 6 of [2], reprinted here with permission from the authors. Same-coloured circles and squares indicate our results from the SAC and IPOPT runs respectively. The corresponding statistical errors are too small to display on this plot but can be found in Table 7 of [1].*
 
 __Constrained Interior Point Optimiser (IPOPT)__
 
-![Unconstrained search](/assets/images/blog/22-06-23/wcons.png "Unconstrained search")
+![Unconstrained search]({{ site.url }}/assets/images/blog/22-06-23/wcons.png "Unconstrained search")
 *Results for the OPE-coefficients squared of the first three long operators after the incorporation of two integral constraints. The solid lines indicate the rigorous bounds presented in Figure 10 of [3], reprinted here with permission from the authors. Same-colored squares indicate our results from the IPOPT runs. The corresponding statistical errors are too small to display on this plot but can be found in Table 7 of [1]*
 
 ## References
