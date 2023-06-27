@@ -3,7 +3,7 @@ layout: page
 title: "Pregenerated Conformal Blocks"
 ---
 
-This page contains up-to-date download links for the pre-generated conformal blocks. Place the relevant directories in your *block_lattices* directory of your BootSTOP installation. 
+This page contains up-to-date download links for the pre-generated conformal blocks. Place the relevant directories in the *block_lattices* folder in your BootSTOP installation. 
 
 **Note: these blocks are included in the .gitignore. The default git behaviour is to not track them.**
 
