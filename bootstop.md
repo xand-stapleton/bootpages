@@ -2,7 +2,7 @@
 layout: page
 title: "BootSTOP (Bootstrap STochastic OPtimizer)"
 ---
-***From [BootSTOP repository](https://github.com/vniarchos/bootstop) README***
+***From [BootSTOP repository README](https://github.com/vniarchos/bootstop)***
 
 ---
 <!-- TOC -->
@@ -14,22 +14,23 @@ title: "BootSTOP (Bootstrap STochastic OPtimizer)"
 <!-- TOC -->
 
 ## Overview
-BootSTOP is a python package for determining CFT data (OPE-coefficients squared and scaling dimensions) 
+BootSTOP is a Python package for determining CFT data (OPE-coefficients squared and scaling dimensions) 
 which minimise a theory's truncated crossing equation. To do this the code can apply either a custom PyTorch 
-implementation of the soft-Actor-Critic algorithm
+implementation of the Soft-Actor-Critic algorithm
 or one of the algorithms within the PyGMO package (information about PyGMO can be found 
-[here](https://esa.github.io/pygmo2/)). 
+[on the PyGMO website](https://esa.github.io/pygmo2/)). 
 
 At present the crossing equation for each of the following CFTs is coded within BootSTOP: 
 1D defect CFT (see [4]), 2D c=1 compactified boson CFT (see [1,2]) 
 and the 6D (2,0) SCFT (see [3]). See [1-4] and the references within for comprehensive background.
 
 ## Installation
-For installation instructions see [here](https://github.com/vniarchos/BootSTOP/blob/main/requirements/getting_started.md).
+For installation instructions see [our getting started page](https://github.com/vniarchos/BootSTOP/blob/main/requirements/getting_started.md).
 
-Then you will need to follow this [link](/blocks)
-from where you should copy the pre-generated conformal block files and place them within the relevant *block_lattices* 
-folder in your local repository.
+Then you will need to follow [download the blocks from our block page](/blocks)
+from where you should copy the pre-generated conformal block files and place
+them within the relevant *block_lattices* 
+folder in your local BootSTOP repository.
 
 ## Running the code
 

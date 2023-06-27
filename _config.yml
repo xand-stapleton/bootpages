@@ -1,10 +1,11 @@
 title: "BootSTOP"
 author: "Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
 description: "BootSTOP conformal bootstopping programme.\nQueen Mary University of London; University of Crete"
+# url: https://xand-stapleton.github.io/bootpages/
 permalink: /:title/
 lang: "en-gb"
 excerpt_separator: "\n\n\n"
-date_format: "%d %b, %Y"
+date_format: "%A %d %B %Y"
 
 # Layout
 
@@ -17,11 +18,12 @@ mathjax: true       # Use mathjax where appropriate
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  # - {file: "index.md", title: "Home"}
-  - {file: "index.md", title: "Blog"}
+  - {file: "index.md", title: "Home"}
+  - {file: "blog.md", title: "Blog"}
   - {file: "bootstop.md", title: "BootSTOP"}
   # - {url: "https://github.com/xand-stapleton/BootPLUG", title: "BootPLUG"}
   - {file: "blocks.md", title: "Conformal Blocks"}
+  - {url: "https://github.com/vniarchos/BootSTOP", icon: github}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:a.g.stapleton@qmul.ac.uk"}

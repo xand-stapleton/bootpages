@@ -11,6 +11,8 @@ The conformal bootstrap has diverse applications in theoretical physics, such as
 
 Please see the below blog for a more complete list of the group's publications.
 
+----
+
 # Blog
 {% if site.show_excerpts %}
   {% include home.html %}
