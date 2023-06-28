@@ -1,7 +1,6 @@
 title: "BootSTOP"
 author: "Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
 description: "BootSTOP conformal bootstopping programme.\nQueen Mary University of London; University of Crete"
-permalink: /:title/
 lang: "en-gb"
 excerpt_separator: "\n\n\n"
 date_format: "%A %d %B %Y"
