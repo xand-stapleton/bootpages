@@ -11,12 +11,12 @@ This page contains up-to-date download links for the pre-generated conformal blo
 ## Download links:
 
 ### 1D
-- [Blocks](https://drive.google.com/drive/folders/18eVL5X2yxqqJS7mlDcRN3mMzPadpvllZ)
-- [Constraints](https://drive.google.com/drive/folders/1_WOq9MEuUoCs_0a3UddHlLEdVQAsA_2s)
-- [Derivatives](https://drive.google.com/drive/folders/1IiZBR_nmQNSdN0e96SNAKsta7JTSlCen)
+- [1D Blocks](https://drive.google.com/drive/folders/18eVL5X2yxqqJS7mlDcRN3mMzPadpvllZ)
+- [1D Constraints](https://drive.google.com/drive/folders/1_WOq9MEuUoCs_0a3UddHlLEdVQAsA_2s)
+- [1D Derivatives](https://drive.google.com/drive/folders/1IiZBR_nmQNSdN0e96SNAKsta7JTSlCen)
 
 ### 2D
-- [Blocks](https://drive.google.com/drive/folders/114JGi6wIlUMcpjKt3xaevUrp4kG3xzJK)
+- [2D Blocks](https://drive.google.com/drive/folders/114JGi6wIlUMcpjKt3xaevUrp4kG3xzJK)
 
 ### 6D
-- [Blocks](https://drive.google.com/drive/folders/1srpwgnTxjzd_WiLRNYspzCDXKuOvwHLl)
+- [6D Blocks](https://drive.google.com/drive/folders/1srpwgnTxjzd_WiLRNYspzCDXKuOvwHLl)
