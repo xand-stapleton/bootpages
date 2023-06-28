@@ -27,7 +27,7 @@ and the 6D (2,0) SCFT (see [3]). See [1-4] and the references within for compreh
 ## Installation
 For installation instructions see [our getting started page](https://github.com/vniarchos/BootSTOP/blob/main/requirements/getting_started.md).
 
-Then you will need to follow [download the blocks from our block page](/blocks)
+Then you will need to follow [download the blocks from our block page](bootstop/blocks)
 from where you should copy the pre-generated conformal block files and place
 them within the relevant *block_lattices* 
 folder in your local BootSTOP repository.
