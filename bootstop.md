@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "BootSTOP (Bootstrap STochastic OPtimizer)"
+title: "BootSTOP (Bootstrap STochastic OPtimiser)"
 ---
 ***From [BootSTOP repository README](https://github.com/vniarchos/bootstop)***
 
 ---
 <!-- TOC -->
-* [Contents](#bootstop-bootstrap-stochastic-optimizer)
+* [Contents](#bootstop-bootstrap-stochastic-optimiser)
   * [Overview](#overview)
   * [Installation](#installation)
   * [Running the code](#running-the-code)
@@ -55,5 +55,5 @@ Phys. Rev. D 105 (2022) [arXiv:2108.09330](https://arxiv.org/abs/2108.09330)
 *6D (2,0) bootstrap with soft-actor-critic algorithm*,
 Phys. Rev. D 107 (2023) [arXiv:2209.02801](https://arxiv.org/abs/2209.02801)
 - [4] V. Niarchos, C. Papageorgakis, P. Richmond, A. G. Stapleton and M. Wooley,
-*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [arXiv:2306.xxxxx]
+*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [arXiv:2306.15730](https://arxiv.org/abs/2306.15730)
 
