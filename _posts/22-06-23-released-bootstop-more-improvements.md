@@ -6,7 +6,7 @@ categories: media
 ---
 *Authors: V. Niarchos, C. Papageorgakis, P. Richmond, A. G. Stapleton, M. Woolley*
 
-__Paper available on the arXiv at 2306.xxxxx. Included as reference [1]__
+__Paper available on the arXiv at [2306.15730](https://arxiv.org/abs/2306.15730). Included as reference [1]__
 
 ## Abstract
 
@@ -28,7 +28,7 @@ __Constrained Interior Point Optimiser (IPOPT)__
 
 ## References
 - [1] V. Niarchos, C. Papageorgakis, P. Richmond, A. G. Stapleton and M. Wooley,
-*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [arXiv:2306.xxxxx]
+*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [2306.15730](https://arxiv.org/abs/2306.15730)
 - [2] A. Cavaglià, N. Gromov, J. Julius & M. Preti
 *Integrability and conformal bootstrap: One dimensional defect conformal field theory*,
 Phys. Rev. D 105, L021902 (2022), arXiv:2107.08510 [arXiv:2107.08510](https://arxiv.org/abs/2107.08510)
