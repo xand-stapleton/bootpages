@@ -28,10 +28,10 @@ __Constrained Interior Point Optimiser (IPOPT)__
 
 ## References
 - [1] V. Niarchos, C. Papageorgakis, P. Richmond, A. G. Stapleton and M. Wooley,
-*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [2306.15730](https://arxiv.org/abs/2306.15730)
+*Bootstrability in Line-Defect CFT with Improved Truncation Methods*, [arXiv:2306.15730](https://arxiv.org/abs/2306.15730)
 - [2] A. Cavaglià, N. Gromov, J. Julius & M. Preti
 *Integrability and conformal bootstrap: One dimensional defect conformal field theory*,
-Phys. Rev. D 105, L021902 (2022), arXiv:2107.08510 [arXiv:2107.08510](https://arxiv.org/abs/2107.08510)
+Phys. Rev. D 105, L021902 (2022), [arXiv:2107.08510](https://arxiv.org/abs/2107.08510)
 - [3] A. Cavaglià, N. Gromov, J. Julius & M. Preti
 *Bootstrability in defect CFT: integrated correlators and sharper bounds*,
 JHEP 2205, 164 (2022, L021902 (2022), [arXiv:2203.09556](https://arxiv.org/abs/2203.09556)

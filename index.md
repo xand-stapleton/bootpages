@@ -5,11 +5,11 @@ title: ""
 
 ### What is the conformal bootstrap and why are we interested in it?
 
-We are interested in how machine learning techniques can be used in the conformal bootstrap programme. The conformal bootstrap is a framework in theoretical physics which is used to understand the properties of conformal field theories (CFTs) by exploring their inherent symmetries. By solving constraints using numerical methods, we uncover information about many properties of the CFTs such as the spectrum; operator product expansion (OPE) coefficients, and scaling dimensions.
+ We are interested in how machine learning techniques can be used in the conformal bootstrap programme. The conformal bootstrap is a framework in theoretical physics which is used to understand the properties of conformal field theories (CFTs) by exploring their inherent symmetries. By solving constraints using numerical methods, we obtain information about the CFT spectrum (scaling dimensions) and interactions (operator product expansion coefficients), hence uncovering many of their properties. 
 
-The conformal bootstrap has diverse applications in theoretical physics, such as describing the critical phenomena in condensed matter physics, and even applications in string theory through the AdS/CFT correspondence.
+CFTs are ubiquitous in theoretical physics. They appear in many idealised high-energy models of particle physics, describe the dynamics of critical phenomena in condensed matter physics, and even find applications in quantum gravity through the AdS/CFT correspondence.
 
-Please see the below blog for a more complete list of the group's publications.
+Please see the below blog for a more complete list of the group’s publications.
 
 ----
 
