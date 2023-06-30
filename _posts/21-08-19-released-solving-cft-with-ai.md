@@ -6,7 +6,7 @@ categories: media
 ---
 *Authors: G. Kantor, V. Niarchos, C. Papageorgakis*
 
-__Paper available on the arXiv at [2108.08850](https://arxiv.org/abs/2108.08850). Included as reference [1]__
+__Paper available on the arXiv at [2108.08850](https://arxiv.org/abs/2108.08859). Included as reference [1]__
 
 ## Abstract
 
@@ -16,4 +16,4 @@ In this Letter, we deploy for the first time reinforcement-learning algorithms i
 
 - [1] G. Kantor, V. Niarchos, C. Papageorgakis
 *Solving Conformal Field Theories with Artificial Intelligence*, 
-*Phys.Rev.Lett. 128 (2022) 4, 041601, [arXiv:2108.08850](https://arxiv.org/abs/2108.08850)*
+*Phys.Rev.Lett. 128 (2022) 4, 041601, [arXiv:2108.08859](https://arxiv.org/abs/2108.08859)*
