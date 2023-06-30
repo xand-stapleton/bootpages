@@ -6,7 +6,7 @@ categories: media
 ---
 *Authors: G. Kantor, V. Niarchos, C. Papageorgakis*
 
-__Paper available on the arXiv at [2108.08850](https://arxiv.org/abs/2108.08859). Included as reference [1]__
+__Paper available on the arXiv at [2108.08859](https://arxiv.org/abs/2108.08859). Included as reference [1]__
 
 ## Abstract
 
