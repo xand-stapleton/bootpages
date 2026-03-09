@@ -2,16 +2,10 @@
 layout: page
 title: "BootSTOP (Bootstrap STochastic OPtimiser)"
 ---
+
 ***From [BootSTOP repository README](https://github.com/vniarchos/bootstop)***
 
 ---
-<!-- TOC -->
-* [Contents](#bootstop-bootstrap-stochastic-optimiser)
-  * [Overview](#overview)
-  * [Installation](#installation)
-  * [Running the code](#running-the-code)
-  * [References](#references)
-<!-- TOC -->
 
 ## Overview
 BootSTOP is a Python package for determining CFT data (OPE-coefficients squared and scaling dimensions) 

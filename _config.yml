@@ -1,5 +1,5 @@
 title: "BootSTOP"
-author: "Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
+author: "James Chryssanthacopoulos, Vasilis Niarchos, Costis Papageorgakis, Paul Richmond, Alexander Stapleton, Mitchell Wooley"
 description: "BootSTOP conformal bootstrapping programme.\nQueen Mary University of London; University of Crete"
 lang: "en-gb"
 excerpt_separator: "\n\n\n"
@@ -19,7 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "blog.md", title: "Blog"}
   - {file: "bootstop.md", title: "BootSTOP"}
+  - {file: "bootstop_multi.md", title: "BootSTOP-multi-correlator"}
   # - {url: "https://github.com/xand-stapleton/BootPLUG", title: "BootPLUG"}
+  - {file: "goblocks.md", title: "GoBlocks"}
   - {file: "blocks.md", title: "Conformal Blocks"}
   - {url: "https://github.com/vniarchos/BootSTOP", icon: github}
 
