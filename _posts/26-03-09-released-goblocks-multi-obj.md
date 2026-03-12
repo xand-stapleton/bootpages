@@ -6,7 +6,7 @@ categories: media
 ---
 *Authors: J. Chryssanthacopoulos, V. Niarchos, C. Papageorgakis, A.G. Stapleton*
 
-__Paper available on the arXiv at [2603.xxxxx](https://arxiv.org/abs/2603.xxxxx). Included as reference [1]__
+__Paper available on the arXiv at [2603.10627](https://arxiv.org/abs/2603.10627). Included as reference [1]__
 
 ## Abstract
 
@@ -15,4 +15,4 @@ Conformal blocks in odd spacetime dimensions are not known in closed analytic fo
 ## References
 - [1] J. Chryssanthacopoulos, V. Niarchos, C. Papageorgakis, A. G. Stapleton
 *Efficient Conformal Block Evaluation with GoBlocks*,
-[arXiv:2603.xxxxx](https://arxiv.org/abs/2603.xxxxx)
+[arXiv:2603.10627 ](https://arxiv.org/abs/2603.10627)

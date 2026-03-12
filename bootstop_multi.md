@@ -25,4 +25,4 @@ parallel conformal block generator.
 ## References
 - [1] J. Chryssanthacopoulos, V. Niarchos, C. Papageorgakis, A. G. Stapleton
 *Efficient Conformal Block Evaluation with GoBlocks*,
-[arXiv:2603.xxxxx](https://arxiv.org/abs/2603.xxxxx)
+[arXiv:2603.10627](https://arxiv.org/abs/2603.10627)
