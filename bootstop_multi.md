@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "BootSTOP-multi-correlator (Bootstrap STochastic OPtimiser)"
 ---
 
 <img src="https://raw.githubusercontent.com/xand-stapleton/bootpages/refs/heads/master/assets/images/home/bootstop_text_multi.svg" alt="drawing" width="400"/>
