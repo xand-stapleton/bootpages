@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "BootSTOP (Bootstrap STochastic OPtimiser)"
 ---
 
 <img src="https://raw.githubusercontent.com/xand-stapleton/bootpages/refs/heads/master/assets/images/home/bootstop_text.svg" alt="drawing" width="400"/>
