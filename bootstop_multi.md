@@ -4,7 +4,6 @@ layout: page
 
 <img src="https://raw.githubusercontent.com/xand-stapleton/bootpages/refs/heads/master/assets/images/home/bootstop_text_multi.svg" alt="drawing" width="400"/>
 
-## Overview
 BootSTOP is a Python package for determining CFT data (OPE-coefficients squared
 and scaling dimensions) which minimise a theory's truncated crossing equation.
 This page presents BootSTOP-multi-correlator, a multi-objective implementation
