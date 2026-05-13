@@ -7,8 +7,6 @@ title: "BootSTOP (Bootstrap STochastic OPtimiser)"
 
 ***From [BootSTOP repository README](https://github.com/vniarchos/bootstop)***
 
----
-
 ## Overview
 BootSTOP is a Python package for determining CFT data (OPE-coefficients squared and scaling dimensions) 
 which minimise a theory's truncated crossing equation. To do this the code can apply either a custom PyTorch 
