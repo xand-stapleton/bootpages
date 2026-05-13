@@ -23,9 +23,18 @@ This page contains up-to-date download links for the pre-generated conformal blo
 
 ## Citation
 
-Each of these files is hosted on Zenodo under record [https://zenodo.org/records/20157380](https://zenodo.org/records/20157380), and should be cited as
+Each of these files is hosted on Zenodo under record [https://zenodo.org/records/20157380](https://zenodo.org/records/20157380#citation), and should be cited (bibtex) as
 ```
-Niarchos, V., Papageorgakis, C., Richmond, P., Stapleton, A., & Woolley, M. (2026). Conformal Blocks for BootSTOP [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20157380
+@misc{https://doi.org/10.5281/zenodo.20157380,
+  doi = {10.5281/ZENODO.20157380},
+  url = {https://zenodo.org/doi/10.5281/zenodo.20157380},
+  author = {Niarchos,  Vasilis and Papageorgakis,  Constantinos and Richmond,  Paul and Stapleton,  Alexander and Woolley,  Mitchell},
+  keywords = {conformal field theory,  conformal blocks,  CFT,  conformal bootstrap},
+  title = {Conformal Blocks for BootSTOP},
+  publisher = {Zenodo},
+  year = {2026},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
 
-_The blocks are released under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license._
+_Alternative citation styles are generated on [Zenodo](https://zenodo.org/records/20157380#citation). The blocks are released under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license._
