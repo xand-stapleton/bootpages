@@ -3,6 +3,8 @@ layout: page
 title: "BootSTOP (Bootstrap STochastic OPtimiser)"
 ---
 
+<img src="https://raw.githubusercontent.com/xand-stapleton/bootpages/refs/heads/master/assets/images/home/bootstop_text.svg" alt="drawing" width="400"/>
+
 ***From [BootSTOP repository README](https://github.com/vniarchos/bootstop)***
 
 ---
